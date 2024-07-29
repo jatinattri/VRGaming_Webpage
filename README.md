@@ -1,1 +1,0 @@
-Basic gaming web page.
